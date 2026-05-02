@@ -1,0 +1,159 @@
+# PersonalDeal Whitepaper v0.1
+
+## 1. Introduction
+
+Human interactions rely on incomplete information.
+
+Decisions are made without structured understanding of:
+
+* intentions
+* expectations
+* risk tolerance
+* behavioral patterns
+
+This leads to inefficiency and conflict.
+
+---
+
+## 2. Core Idea
+
+PersonalDeal introduces a system that:
+
+1. models a human as a structured profile
+2. compares two profiles before interaction
+3. highlights compatibility and risks
+4. suggests optimal agreement
+
+---
+
+## 3. System Components
+
+### 3.1 Profile Layer
+
+Transforms user input into structured data:
+
+* intent
+* traits
+* preferences
+* boundaries
+* red flags
+
+---
+
+### 3.2 AI Interpretation Layer
+
+Converts natural language into structured signals.
+
+Handles:
+
+* ambiguity
+* contradictions
+* behavioral inference
+
+---
+
+### 3.3 Matching Engine
+
+Computes compatibility:
+
+* goal alignment
+* behavioral fit
+* conflict probability
+* deal-breakers
+
+Outputs:
+
+* score
+* conflicts
+* risk indicators
+
+---
+
+### 3.4 Agreement Layer
+
+Generates structured agreement:
+
+* roles
+* expectations
+* constraints
+* exit conditions
+
+---
+
+### 3.5 Distribution Layer
+
+Profiles are shared via:
+
+* QR tokens (offline)
+* online matching (continuous)
+
+---
+
+## 4. Matching Modes
+
+### Direct Matching
+
+QR scan → instant comparison
+
+### Passive Matching
+
+System suggests top matches automatically
+
+---
+
+## 5. Domains
+
+System supports multiple domains:
+
+* business deals
+* co-founder search
+* freelance
+* gaming teams
+* social/dating
+
+Each domain defines:
+
+* questions
+* scoring
+* red flags
+* agreements
+
+---
+
+## 6. Privacy Model
+
+* raw answers are hidden
+* only interpreted signals are shared
+* user controls disclosure level
+* QR tokens are temporary and scoped
+
+---
+
+## 7. Risks
+
+* manipulation of answers
+* privacy concerns
+* over-reliance on AI judgment
+
+Mitigation:
+
+* consistency checks
+* confidence scores
+* user-controlled visibility
+
+---
+
+## 8. Vision
+
+PersonalDeal aims to become:
+
+> a universal compatibility and agreement protocol between humans.
+
+---
+
+## 9. Future Work
+
+* adaptive questionnaires
+* domain marketplaces
+* API for third-party apps
+* integration with contracts / legal systems
